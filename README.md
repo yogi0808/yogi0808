@@ -7,7 +7,7 @@ Web Developer
 I specialize in turning ideas into interactive and visually appealing websites. From crafting pixel-perfect user interfaces to optimizing frontend performance, I thrive on bringing digital concepts to life. Whether it's a responsive web application or a stunning landing page, I'm always up for the challenge.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [MyPortfolio](http://https://yogi0808.github.io/portfolio/)
+*   🖥️  See my portfolio at [MyPortfolio](https://yogi0808.github.io/portfolio/)
 *   ✉️  You can contact me at [gojiyayogesh08@gmail.com](mailto:gojiyayogesh08@gmail.com)
 *   🧠  I'm learning React### Skills 
 <p align="left">
