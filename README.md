@@ -7,7 +7,7 @@ Web Developer
 I specialize in turning ideas into interactive and visually appealing websites. From crafting pixel-perfect user interfaces to optimizing front-end performance, I thrive on bringing digital concepts to life. Whether it's a responsive web application or a stunning landing page, I'm always up for the challenge.
 
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Portfolio.](https://portfolio-v2-ten-tan.vercel.app/)
+*   🖥️  See my portfolio at [Portfolio.](https://yogesh.qzz.io)
 *   ✉️  You can contact me at [gojiyayogesh08@gmail.com](mailto:gojiyayogesh08@gmail.com)
 
 ### Skills 
